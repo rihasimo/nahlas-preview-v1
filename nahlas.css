@@ -502,7 +502,7 @@ div a[href^="https://"]::after
   	content: "";
 	width: 1.5em;
 	height: 1em;
-	margin-right: 0.2em;
+	margin-right: 0.5em;
 	margin-left: 0.15em;
 	margin-bottom: -0.15em;
 	background-position: center;
